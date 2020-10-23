@@ -9,4 +9,11 @@
     <string name="invalid_username">Not a valid username</string>
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
+    <string name="home">Home</string>
+    <string name="compose">Compose</string>
+    <string name="profile">Profile</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="description">Description...</string>
+    <string name="submit">Submit</string>
+    <string name="logout">Logout</string>
 </resources>
